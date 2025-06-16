@@ -1,8 +1,5 @@
 # Solana Pump.fun Trader
 
-> [!CAUTION] 
-> Do not use your main wallet with this script! Always use a trading wallet with your trading budget. Don't be lazy! Create a wallet for this now!
-
 Solan Pump.fun Trader is a library to execute buy and sell orders for SPL tokens that were created on pump.fun.
 
 ## Installation
